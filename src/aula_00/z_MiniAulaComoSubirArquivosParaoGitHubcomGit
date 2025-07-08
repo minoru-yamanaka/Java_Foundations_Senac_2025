@@ -1,0 +1,110 @@
+## 🚀 Mini Aula: Como Subir Arquivos para o GitHub com Git
+
+### 🎯 Objetivo:
+
+Aprender os passos básicos para versionar seu projeto local e subir para um repositório remoto no GitHub.
+
+---
+
+### 📦 Pré-requisitos:
+
+* Git instalado ([https://git-scm.com/](https://git-scm.com/))
+* Conta no GitHub
+* Um projeto ou pasta com arquivos
+
+---
+
+### ✅ Passo a Passo:
+
+#### 1. **Crie um repositório no GitHub**
+
+* Vá para: [https://github.com](https://github.com)
+* Clique em **“New repository”**
+* Dê um nome, selecione público ou privado, e clique em **Create repository**
+
+---
+
+#### 2. **Abra o terminal na pasta do seu projeto**
+
+No VS Code: clique em *Terminal > New Terminal*
+Ou no terminal padrão do seu sistema, navegue com:
+
+```bash
+cd caminho/para/sua-pasta
+```
+
+---
+
+#### 3. **Inicie o Git na pasta**
+
+```bash
+git init
+```
+
+Isso transforma sua pasta em um repositório Git local.
+
+---
+
+#### 4. **Adicione os arquivos**
+
+```bash
+git add .
+```
+
+O `.` adiciona todos os arquivos da pasta.
+
+---
+
+#### 5. **Crie um commit**
+
+```bash
+git commit -m "Primeiro commit"
+```
+
+O `-m` indica a mensagem do commit.
+
+---
+
+#### 6. **Conecte ao GitHub (repositório remoto)**
+
+Copie o link do repositório do GitHub (ex: `https://github.com/seunome/repositorio.git`)
+E cole com:
+
+```bash
+git remote add origin https://github.com/seunome/repositorio.git
+```
+
+---
+
+#### 7. **Envie os arquivos para o GitHub**
+
+```bash
+git push -u origin master
+```
+
+Se estiver usando branch `main`, use:
+
+```bash
+git push -u origin main
+```
+
+---
+
+### 🧠 Dica:
+
+Se aparecer um erro pedindo autenticação, use seu **Token de Acesso Pessoal (PAT)** no lugar da senha:
+* Gere em: [https://github.com/settings/tokens](https://github.com/settings/tokens)
+
+---
+
+### ✅ Resumo Rápido (colar no terminal):
+
+```bash
+git init
+git add .
+git commit -m "Primeiro commit"
+git remote add origin https://github.com/seunome/repositorio.git
+git push -u origin main
+```
+
+---
