@@ -1,4 +1,4 @@
-package aula_09.h_ClassesPrivadasEPublicas;
+package aula_10;
 
 class CarroDeBrinquedo {
     // --- Atributos (Características do Carro) ---

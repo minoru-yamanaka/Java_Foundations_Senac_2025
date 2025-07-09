@@ -1,4 +1,4 @@
-package aula_09.h_ClassesPrivadasEPublicas;
+package aula_10;
 
 // A classe do João: A Caixa de Brinquedos Aberta
 class CaixaDeBrinquedosDoJoao {
