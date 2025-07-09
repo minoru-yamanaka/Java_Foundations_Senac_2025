@@ -1,3 +1,57 @@
+## 👨‍🏫 Quem é o #ProfMinoru?
+https://minoru-yamanaka.github.io/cv/
+
+Olá, pessoal! Meu nome é **Minoru Yamanaka** e serei seu professor na trilha de **Java Foundations**. Sou apaixonado por **educação, inovação e tecnologia** — e acredito que aprender pode (e deve!) ser divertido. 🚀
+
+Atualmente atuo como **Professor de Desenvolvimento Web** na Educação Sem Fronteiras, e já participei de projetos acadêmicos, eventos de tecnologia e até criei meus próprios aplicativos — inclusive um oráculo Android! 🔮
+
+Minha formação inclui:
+- 💻 Técnico em Informática para Internet pelo **Senac Lapa Tito**
+- 🎓 Graduação em Análise e Desenvolvimento de Sistemas pela **UNICID**
+
+Além disso, tenho certificações em **Java, Python, Big Data, Power BI** e gosto de trabalhar com ferramentas como **Git, Figma, MySQL, VS Code, Android Studio** e metodologias ágeis.
+
+Na sala de aula, meu foco é:
+- Ensinar com empatia, leveza e prática 🤗
+- Incentivar a autonomia e criatividade dos alunos 💡
+- Criar um ambiente acolhedor e colaborativo 🌈
+
+> Se você gosta de tecnologia, curiosidades, memes nerds e desafios, você tá no lugar certo. Bora codar e se divertir juntos! 😄💻
+
+---
+
+## 🎓 O Jeito Senac de Ensinar
+
+### 🧠 Aprender fazendo
+O ensino no Senac é baseado na **educação profissional** de qualidade:
+- Foco em **situações reais** e resolução de problemas.
+- Projetos práticos e experiências que simulam o mercado.
+- Atividades mão na massa que desenvolvem competências técnicas e humanas.
+
+### 🎯 Protagonismo do aluno
+O estudante é o **centro da aprendizagem**:
+- O professor atua como **mediador**, estimulando autonomia.
+- Valorização do repertório, vivências e diversidade dos alunos.
+- Incentivo ao pensamento crítico, criatividade e colaboração.
+
+### 🧩 Metodologias ativas
+O Senac utiliza abordagens modernas:
+- Aprendizagem por projetos
+- Design Thinking
+- Sala de aula invertida
+- Gamificação e storytelling
+
+### 🧭 Formação completa
+Além da parte técnica, o Senac desenvolve:
+- Comunicação e expressão
+- Empatia, ética e responsabilidade
+- Consciência socioambiental e cidadania
+
+
+> 💬 *"No Senac, aprender é transformar. O ensino vai além da sala de aula — é preparar para a vida, para o mercado, e para o mundo."*
+
+---
+
 ## Seja o Protagonista da Sua Jornada em TI com a IA
 
 A área de TI está em constante mudança, e a **Inteligência Artificial** é o maior acelerador dessa transformação.
