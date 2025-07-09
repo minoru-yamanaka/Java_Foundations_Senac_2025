@@ -1,5 +1,7 @@
 package aula_11.Heranca;
 
+import org.w3c.dom.ls.LSOutput;
+
 // TesteHeranca.java
 public class TesteHeranca {
     public static void main(String[] args) {
@@ -17,5 +19,9 @@ public class TesteHeranca {
         misty.fazerSom(); // Chama o método sobrescrito do Gato
         misty.comer();     // Chama o método herdado do Animal
         misty.arranhar();
+
+        
     }
+
+
 }
