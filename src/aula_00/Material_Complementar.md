@@ -11,6 +11,9 @@ https://www.youtube.com/watch?v=2bZl62vNU0A
 * Java Roadmap | Java Roadmap 2024 - Como aprender a programar em java
 https://www.youtube.com/watch?v=1g-Ak2cL1N8
 
+* Interface | POO Java 2024: Java Interfaces O que e? Interface e Implements no Java
+https://www.youtube.com/watch?v=2bZl62vNU0A&t=10s
+
 ---
 
 ### Canais do YouTube para mergulhar de cabeça no mundo Dev 💻

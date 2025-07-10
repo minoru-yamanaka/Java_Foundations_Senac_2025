@@ -31,12 +31,10 @@
 * `this`
 * Sobrecarga de construtores
 * 
-* ### ⚙️ **10. Métodos e Comportamentos E Construtores (POO Parte 3)**
+* ### ⚙️ **11. Abstração, PPO e Interfaces**
 
-* Criando e usando objetos no método `main`
-* Encapsulamento e visibilidade (`public`, `private`, `protected`)
-* `this`
-* Sobrecarga de construtores
+* PPO
+* Interfaces 
 
 ### 🏗️ **12. Bibliotecas em Java e Manipulação de Strings e Datas**
 
