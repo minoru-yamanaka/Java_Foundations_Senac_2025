@@ -15,8 +15,8 @@ public class b_VariaveisETiposDeDados {
         int idade = 30;
         double preco = 19.99;
         boolean isJavaFun = true;
-        char primeiraLetra = 'J';
         String saudacao = "Olá, Programador!";
+        char primeiraLetra = 'J';
 
         // Imprimindo os valores das variáveis
         System.out.println("Idade: " + idade);
