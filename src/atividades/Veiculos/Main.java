@@ -5,8 +5,13 @@ public class Main {
         System.out.println("--- Criando Veículos ---");
 
         // Criando um objeto Carro
-        Carro meuCarro = new Carro("Ford", 2023, 4);
+        Carro meuCarro = new Carro
+                ("Ford",
+                        2023,
+                        4);
         meuCarro.ligar(); // Método herdado de Veiculo
+
+
         meuCarro.abrirPortaMalas(); // Método próprio de Carro
         meuCarro.transportarPessoas(5); // Método da interface Transportavel
         meuCarro.transportarCarga(150.5); // Método da interface Transportavel
