@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbfbffc5-c942-4808-90d2-dbe5a4363b96" name="Changes" comment="add Hello word" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;minoru-yamanaka&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/minoru-yamanaka/Java_Foundations_Senac_2025.git&quot;,
+    &quot;accountId&quot;: &quot;1a0a8c2d-be88-48f0-87e8-46fd73e7e1f6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2zQSndbQaKXWkcRVF50MnaotjyS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.00.executor": "Run",
+    "Application.Atividade02.executor": "Run",
+    "Application.Atividade03.executor": "Run",
+    "Application.Atividade04.executor": "Run",
+    "Application.Atividade05.executor": "Run",
+    "Application.AtividadesJavaBasico.executor": "Run",
+    "Application.Aula04_02.executor": "Run",
+    "Application.BancoApp.executor": "Run",
+    "Application.BonecoDeNeve.executor": "Run",
+    "Application.Cachorro.executor": "Debug",
+    "Application.Calculadora.executor": "Run",
+    "Application.Carro.executor": "Run",
+    "Application.ContaBancaria.executor": "Run",
+    "Application.ExemploFor.executor": "Run",
+    "Application.ExemploOperadores.executor": "Run",
+    "Application.ExemploPublicPrivate.executor": "Run",
+    "Application.ExemploVariaveis.executor": "Run",
+    "Application.GaragemDeBrinquedos.executor": "Run",
+    "Application.Imccalculator.executor": "Run",
+    "Application.ImprimirAnimal.executor": "Run",
+    "Application.Input.executor": "Run",
+    "Application.Input2.executor": "Run",
+    "Application.Input3.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Matematica.executor": "Run",
+    "Application.OlaMundo.executor": "Run",
+    "Application.Pacotes.executor": "Run",
+    "Application.Pessoa.executor": "Run",
+    "Application.PrimeiroPrograma (1).executor": "Run",
+    "Application.PrimeiroPrograma.executor": "Run",
+    "Application.Receita.executor": "Debug",
+    "Application.Receita02.executor": "Run",
+    "Application.Teste02.Main.executor": "Run",
+    "Application.TesteAbstracao.executor": "Run",
+    "Application.TesteCarro.executor": "Run",
+    "Application.TesteHeranca.executor": "Run",
+    "Application.TestePolimorfismo.executor": "Run",
+    "Application.VariaveisETiposDeDados.executor": "Run",
+    "Application.a_Calculadora.executor": "Run",
+    "Application.a_OlaMundo.executor": "Debug",
+    "Application.atividade.executor": "Run",
+    "Application.atividade01.executor": "Run",
+    "Application.atividades.ContaInterface.BancoApp.executor": "Run",
+    "Application.atividades.separar.Main.executor": "Run",
+    "Application.aula_10.ExemploPublicPrivate.executor": "Run",
+    "Application.aula_10.GaragemDeBrinquedos.executor": "Run",
+    "Application.aula_11.Abstracao.TesteAbstracao.executor": "Run",
+    "Application.aula_11.TesteAbstracao.TesteAbstracao.executor": "Run",
+    "Application.b_VariaveisETiposDeDados.executor": "Run",
+    "Application.c_OperadoreBasicos (1).executor": "Run",
+    "Application.c_OperadoreBasicos.executor": "Run",
+    "Application.c_OperadoresBasicos.executor": "Run",
+    "Application.d_Condicionais.executor": "Run",
+    "Application.d_EstrutturadeControledeFluxo.executor": "Run",
+    "Application.d_EstruturadeControledeFluxo.executor": "Run",
+    "Application.d_EstruturasdeControledeFluxo.executor": "Run",
+    "Application.e_Input.executor": "Debug",
+    "Application.e_LacodeRepeticao.executor": "Run",
+    "Application.e_LacodeRepeticaoFor.executor": "Run",
+    "Application.e_LacodeRepeticaoWhile.executor": "Run",
+    "Application.e_Metodos.executor": "Run",
+    "Application.encapsulamento.Main.executor": "Run",
+    "Application.f_Input.executor": "Run",
+    "Application.g_Classes.executor": "Run",
+    "Application.g_ClassesAPessoas.executor": "Run",
+    "Application.g_ClassesBCachorro.executor": "Run",
+    "Application.g_ClassesCachorro.executor": "Run",
+    "Application.g_ClassesPessoas.executor": "Run",
+    "Application.g_PessoaClasses.executor": "Run",
+    "Application.h_ClassesPrivadasEPublicasCachorro.executor": "Run",
+    "Application.impressaoRedacao.executor": "Run",
+    "Application.primeiroprograma.PrimeiroPrograma.executor": "Run",
+    "Application.teste.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/paulo.myamanaka/OneDrive/Área de Trabalho/aula_java_senac_25/src/atividades/aula05",
+    "onboarding.tips.debug.path": "C:/Users/minor/IdeaProjects/aula_java_senac_25/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paulo.myamanaka\OneDrive\Área de Trabalho\aula_java_senac_25\src\atividades\aula05" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\minor\OneDrive\Área de Trabalho\aula_java_senac_25\src\aula_00" />
+      <recent name="C:\Users\minor\OneDrive\Área de Trabalho\aula_java_senac_25\src\aula_09" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="atividades.Input" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.encapsulamento.Main">
+    <configuration name="ImprimirAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste.ImprimirAnimal" />
+      <module name="aula_java_senac_25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.Main" />
+      <module name="aula_java_senac_25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teste02.Main" />
+      <module name="aula_java_senac_25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Teste02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="encapsulamento.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulamento.Main" />
+      <module name="aula_java_senac_25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encapsulamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="teste.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste.Main" />
+      <module name="aula_java_senac_25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.encapsulamento.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Teste02.Main" />
+        <item itemvalue="Application.teste.Main" />
+        <item itemvalue="Application.ImprimirAnimal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbfbffc5-c942-4808-90d2-dbe5a4363b96" name="Changes" comment="" />
+      <created>1751661973076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751661973076</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add Materiais Complementares">
+      <option name="closed" value="true" />
+      <created>1752079172895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079172895</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Materiais Complementares">
+      <option name="closed" value="true" />
+      <created>1752079233054</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079233054</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Hello word">
+      <option name="closed" value="true" />
+      <created>1752104247184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752104247184</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add Hello word">
+      <option name="closed" value="true" />
+      <created>1752104295753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752104295753</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add Hello word">
+      <option name="closed" value="true" />
+      <created>1752104314339</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752104314339</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add Hello word">
+      <option name="closed" value="true" />
+      <created>1752104327304</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752104327304</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Materiais Complementares" />
+    <MESSAGE value="add Hello word" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Hello word" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula_02_ao_08/c_OperadoresBasicos.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula_02_ao_08/f_Input.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/aula_11/Abstracao/TesteAbstracao.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/atividades/CalculadoraIMC/Imccalculator.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/atividades/ContaBancaria00/ContaBancaria.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/atividades/ContaBancaria00/ContaBancaria.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/atividades/Input/Input3.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/atividades/Calculadora/Calculadora.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/atividades/Contas/Conta.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/aula_java_senac_25$Receita.ic" NAME="Receita Coverage Results" MODIFIED="1752610177562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>atividades.Receita.*</FILTER>
+    </SUITE>
+  </component>
+</project>
